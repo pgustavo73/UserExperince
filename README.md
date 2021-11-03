@@ -1,11 +1,10 @@
-# UserExperience App com Kotlin 
+# UserExperience App in Kotlin
 
-OLA"  bem vindo 
+Hello welcome
+This was one of everis' Bootcamp modules at DIO.
+This app was developed as an exercise for developing some UI elements.
 
-Este foi um dos módulos do BootCAmp da  Everis na DIO.
+Feel free to look, I am open to tips and suggestions.
 
-Este app foi desenvolvido como exercício para desenvolvimentos de alguns elementos de UI. 
-
-Fiquem a vontade para olhar estou aberto  a dicas e sugestões.
-
+# Screens
 <img src="./image/telas.jpg" />
